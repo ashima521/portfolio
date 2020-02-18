@@ -4,11 +4,11 @@ public class Factorial {
 
 	public static void main (String[] args) {
 		
-		int val = 5;
+		int val = 6;
 		int factorial = 1;
 	
-		for(int n = 1; n < val; n++) {
-			    int factorial  = factorial * n;
+		for(int n = 1; n <= val; n++) {
+				factorial  = factorial * n;
 			  
 			System.out.println(factorial);
 		}
