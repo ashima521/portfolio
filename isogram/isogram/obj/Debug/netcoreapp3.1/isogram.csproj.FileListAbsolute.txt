@@ -1,0 +1,13 @@
+C:\Users\ashu9\source\repos\isogram\isogram\obj\Debug\netcoreapp3.1\isogram.csprojAssemblyReference.cache
+C:\Users\ashu9\source\repos\isogram\isogram\obj\Debug\netcoreapp3.1\isogram.csproj.CoreCompileInputs.cache
+C:\Users\ashu9\source\repos\isogram\isogram\obj\Debug\netcoreapp3.1\isogram.AssemblyInfoInputs.cache
+C:\Users\ashu9\source\repos\isogram\isogram\obj\Debug\netcoreapp3.1\isogram.AssemblyInfo.cs
+C:\Users\ashu9\source\repos\isogram\isogram\bin\Debug\netcoreapp3.1\isogram.exe
+C:\Users\ashu9\source\repos\isogram\isogram\bin\Debug\netcoreapp3.1\isogram.deps.json
+C:\Users\ashu9\source\repos\isogram\isogram\bin\Debug\netcoreapp3.1\isogram.runtimeconfig.json
+C:\Users\ashu9\source\repos\isogram\isogram\bin\Debug\netcoreapp3.1\isogram.runtimeconfig.dev.json
+C:\Users\ashu9\source\repos\isogram\isogram\bin\Debug\netcoreapp3.1\isogram.dll
+C:\Users\ashu9\source\repos\isogram\isogram\bin\Debug\netcoreapp3.1\isogram.pdb
+C:\Users\ashu9\source\repos\isogram\isogram\obj\Debug\netcoreapp3.1\isogram.dll
+C:\Users\ashu9\source\repos\isogram\isogram\obj\Debug\netcoreapp3.1\isogram.pdb
+C:\Users\ashu9\source\repos\isogram\isogram\obj\Debug\netcoreapp3.1\isogram.genruntimeconfig.cache
